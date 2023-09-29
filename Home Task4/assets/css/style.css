@@ -1,0 +1,215 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 20px;
+    width: auto;
+    display: flex;
+
+    text-align: center;
+}
+
+.header_div_singup {
+    text-align: right;
+    color: white;
+    border-radius: 10px;
+    background-color: rgb(62, 62, 188);
+    width: 30px;
+    padding: 12px;
+
+    background-size: cover;
+
+}
+
+.header_div_singup:hover {
+    transition: 0.2s;
+    background-color: blue;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header_div_logo {
+    color: black;
+    margin: 0 900px 0 0;
+    padding: 0 0 0 30px;
+}
+
+.main_section1 {
+    background-image: url(https://images.fineartamerica.com/images-medium-large-5/olu-deniz-turkey-nick-brundle-photography.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    text-align: center;
+
+}
+
+.main_section1_div1 {
+
+    padding: 150px 300px;
+}
+
+.main_section1_div1_h1 {
+    color: black;
+    font-size: 40px;
+}
+
+.main_section1_div1_form1 {
+    padding: 25px;
+    display: flex;
+
+}
+
+.main_section1_div1_form1_input {
+    font-size: 30px;
+    padding: 10px;
+    width: 600px;
+    border-radius: 10px;
+
+}
+
+.main_section1_div1_form1_button {
+    font-size: 35px;
+    width: 150px 20px;
+    padding: 10px;
+    margin: 0 15px;
+    border-radius: 10px;
+    border-style: none;
+    color: white;
+    background-color: blue;
+}
+
+.main_section2_box {
+    display: flex;
+    margin: 60px 90px;
+    padding: 20px 0;
+    text-align: center;
+}
+
+i {
+    font-size: 40px;
+    padding: 20px;
+    color: blue;
+}
+
+.main_section2_box_p {
+    padding: 15px 30px;
+}
+
+#main_section3_box_design_image {
+
+   margin-left: 580px;
+    width: 600px;
+    height: auto;
+}
+
+.main_section3_box_design {
+   
+    text-align: center;
+   
+}
+#main_section3_box_bootstarp5_img2{
+    width: 600px;
+    height: auto;
+}
+#main_section3_box_customize_img3{
+    width: 600px;
+    height: auto;
+    margin-left: 580px;
+}
+
+.main_section4_h2{
+    text-align: center;
+    margin: 40px;
+}
+.main_section4_box{
+    display: flex;
+    margin: 20px 80px;
+    padding: 0 100px;
+}
+#main_section4_box_image{
+
+    margin-left: 40px ;
+    
+    border-radius: 200px;
+    width: 120px;
+    height: 130px;
+}
+h4{
+    padding: 30px;
+}
+.main_section4_box2{
+    padding: 0 90px;
+}
+
+.main_section5 {
+    background-image: url(https://images.fineartamerica.com/images-medium-large-5/olu-deniz-turkey-nick-brundle-photography.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+
+}
+
+.main_section5_div1 {
+
+    padding: 150px 300px;
+}
+
+.main_section5_div1_h1 {
+    color: black;
+    font-size: 35px;
+}
+
+.main_section5_div1_form1 {
+    padding: 25px;
+    display: flex;
+
+}
+
+.main_section5_div1_form1_input {
+    font-size: 30px;
+    padding: 10px;
+    width: 600px;
+    border-radius: 10px;
+
+}
+
+.main_section5_div1_form1_button {
+    font-size: 35px;
+    width: 150px 20px;
+    padding: 10px;
+    margin: 0 15px;
+    border-radius: 10px;
+    border-style: none;
+    color: white;
+    background-color: blue;
+}
+ul{
+    display: flex;
+    margin:30px 20px 5px 20px;
+    list-style: none;
+}
+li{
+    padding: 5px;
+   
+}
+li:nth-child(odd){
+    text-decoration: underline;
+}
+.footer_p{
+    margin: 0 0 0 20px;
+}
+.footer_socialmediaicons{
+    text-align: right;
+    
+}
+i{
+    font-size: 30px;
+    padding: 7px;
+    
+}
